@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.afbank.com	TRUE	/	FALSE	1999999999	NSC_GSLB_00000001	ffffffffc519c53545525d5f4f58455e445a4a420000
+.www.mlo.afbank.com.pagescdn.com	TRUE	/	FALSE	1999999999	__cf_bm	YpZurx6xyLEiQhdvRG9kE3djCXkr0q0jbX1Dq_3Lgqk-1671667804-0-AaGpLQ0bCJh089exVpMcVu+39b0zzsyhqQ5Oi0NWfqRkqNqHXjk/yiqBDWcR2SeofWkv24PG8W2NQjjrxnhwx0s=
+.www.afbank.com.pagescdn.com	TRUE	/	FALSE	1999999999	__cf_bm	DAISToTCj.Uvu6JlqwfiJssE273lLd7E2ma06bokJ1I-1671668169-0-ASdzC0NjS25cstUA0gX13bxdLCh5MraJAR5AnEVlhjwKZVZr2td0HxK8HnRkIlVOXvRE9ojrh6NkDn810My49lU=
+www.afbank.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.afbank.com	TRUE	/	FALSE	1999999999	NSC_ESNS	06e8b41b-a3d2-13a3-9678-6a30b5ecb02f_1194413459_3454541583_00000000000115087583
+www.afbank.com	TRUE	/	FALSE	1999999999	NSC_mcwt_bgcbol.dpn_ed_ttm	14b5a3d9d54f9811690a1be6b343a85addd6a35ed31f6c474f9e1b3f2a57f3234fdef82b
+

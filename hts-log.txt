@@ -1,0 +1,143 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 22 Dec 2022 07:16:06 at https://www.afbank.com/
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.afbank.com/ -O1 "C:\Users\USER\Desktop\download\Test" )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:16:06	Warning: 	Note: due to https://www.afbank.com remote robots.txt rules, links beginning with these path will be forbidden: /includes/, /misc/, /modules/, /profiles/, /scripts/, /themes/, /CHANGELOG.txt, /cron.php, /INSTALL.mysql.txt, /INSTALL.pgsql.txt, /INSTALL.sqlite.txt, /install.php, /INSTALL.txt, /LICENSE.txt, /MAINTAINERS.txt, /update.php, /UPGRADE.txt, /xmlrpc.php, /admin/, /comment/reply/, /filter/tips/, /node/add/, /search/, /user/register/, /user/password/, /user/login/, /user/logout/, /?q=admin/, /?q=comment/reply/, /?q=filter/tips/, /?q=node/add/, /?q=search/, /?q=user/password/, /?q=user/register/, /?q=user/login/, /?q=user/logout/, https://secure.afbank.com/, /forms/contact-info/, /address-change/, /sites/default/files/documents/deposit_account_agreement_pdf_2.pdf (see in the options to disable this)
+07:16:12	Error: 	"Not Found" (404) at link https://www.afbank.com/POST (from https://www.afbank.com/)
+07:16:49	Warning: 	Moved Permanently for https://www.afbank.com/node/3739/
+07:16:49	Warning: 	File has moved from https://www.afbank.com/node/3739/ to https://www.afbank.com/personal/accounts/savings/premier-money-market-cd-iras
+07:16:58	Warning: 	File not parsed, looks like binary: https://www.afbank.com/sites/all/themes/afb/fonts/glyphicons-halflings-regular.woff2
+07:17:00	Warning: 	File not parsed, looks like binary: https://www.afbank.com/sites/all/themes/afb/fonts/font-awesome5/webfonts/fa-brands-400.woff2
+07:17:02	Warning: 	File not parsed, looks like binary: https://www.afbank.com/sites/all/themes/afb/fonts/font-awesome5/webfonts/fa-regular-400.woff2
+07:17:02	Warning: 	File not parsed, looks like binary: https://www.afbank.com/sites/all/themes/afb/fonts/font-awesome5/webfonts/fa-solid-900.woff2
+07:17:05	Warning: 	File not parsed, looks like binary: https://www.afbank.com/sites/all/themes/afb/fonts/webfonts/315ABB_0_0.woff2
+07:17:05	Warning: 	File not parsed, looks like binary: https://www.afbank.com/sites/all/themes/afb/fonts/webfonts/315ABB_1_0.woff2
+07:17:05	Warning: 	File not parsed, looks like binary: https://www.afbank.com/sites/all/themes/afb/fonts/webfonts/315ABB_2_0.woff2
+07:17:05	Warning: 	File not parsed, looks like binary: https://www.afbank.com/sites/all/themes/afb/fonts/webfonts/315ABB_3_0.woff2
+07:17:05	Warning: 	File not parsed, looks like binary: https://www.afbank.com/sites/all/themes/afb/fonts/webfonts/315ABB_4_0.woff2
+07:17:05	Warning: 	File not parsed, looks like binary: https://www.afbank.com/sites/all/themes/afb/fonts/webfonts/315ABB_5_0.woff2
+07:17:05	Warning: 	File not parsed, looks like binary: https://www.afbank.com/sites/all/themes/afb/fonts/webfonts/315ABB_6_0.woff2
+07:17:05	Warning: 	File not parsed, looks like binary: https://www.afbank.com/sites/all/themes/afb/fonts/webfonts/315ABB_7_0.woff2
+07:17:05	Error: 	"Not Found" (404) at link https://www.afbank.com/Popover requires tooltip.js (from https://www.afbank.com/sites/default/files/js/js_tV4SfBRpfqCbIK1u0OEA5gspngvhWHjsNOljc2Z69hc.js)
+07:17:05	Error: 	"Not Found" (404) at link https://www.afbank.com/forms/clone-employment?job_id= (from https://www.afbank.com/sites/default/files/js/js_tV4SfBRpfqCbIK1u0OEA5gspngvhWHjsNOljc2Z69hc.js)
+07:17:08	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/POST (from https://www.afbank.com/locations/)
+07:17:19	Warning: 	Retry after error -4 (Connect Error) at link https://www.afbank.com/locations/ny/fort-drum (from https://www.afbank.com/locations/)
+07:18:04	Error: 	"Not Found" (404) at link https://www.afbank.com/content/POST (from https://www.afbank.com/content/education)
+07:18:16	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/accounts/new-recruit/POST (from https://www.afbank.com/personal/accounts/new-recruit/recruit-access-checking)
+07:18:16	Warning: 	Moved Permanently for https://www.afbank.com/personal/accounts/mobile-banking/mobile-app/
+07:18:16	Warning: 	File has moved from https://www.afbank.com/personal/accounts/mobile-banking/mobile-app/ to https://www.afbank.com/personal/accounts/mobile-banking/mobile-app
+07:18:17	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/accounts/POST (from https://www.afbank.com/personal/accounts/digital-banking)
+07:18:17	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/accounts/savings/POST (from https://www.afbank.com/personal/accounts/savings/savings-account)
+07:18:17	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/credit-cards/POST (from https://www.afbank.com/personal/credit-cards/credit-builder)
+07:18:17	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/accounts/checking/POST (from https://www.afbank.com/personal/accounts/checking/compare-accounts)
+07:18:17	Warning: 	Moved Permanently for https://www.afbank.com/personal/accounts/checking/elite-checking-account/
+07:18:17	Warning: 	File has moved from https://www.afbank.com/personal/accounts/checking/elite-checking-account/ to https://www.afbank.com/personal/accounts/checking/elite-checking-account
+07:18:17	Warning: 	Moved Permanently for https://www.afbank.com/personal/accounts/checking/select-checking-account/
+07:18:17	Warning: 	File has moved from https://www.afbank.com/personal/accounts/checking/select-checking-account/ to https://www.afbank.com/personal/accounts/checking/select-checking-account
+07:18:17	Warning: 	Moved Permanently for https://www.afbank.com/personal/accounts/checking/simple-checking-account/
+07:18:17	Warning: 	File has moved from https://www.afbank.com/personal/accounts/checking/simple-checking-account/ to https://www.afbank.com/personal/accounts/checking/simple-checking-account
+07:18:17	Warning: 	Moved Permanently for https://www.afbank.com/personal/accounts/checking/student-checking-account/
+07:18:17	Warning: 	File has moved from https://www.afbank.com/personal/accounts/checking/student-checking-account/ to https://www.afbank.com/personal/accounts/checking/student-checking-account
+07:18:18	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/education/understanding-finances/POST (from https://www.afbank.com/personal/education/understanding-finances/credit-tips)
+07:18:18	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/loans/secured-personal-loans/POST (from https://www.afbank.com/personal/loans/secured-personal-loans/cd-term-loans)
+07:18:18	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/loans/home-equity-loans/POST (from https://www.afbank.com/personal/loans/home-equity-loans/home-equity-line-credit)
+07:18:18	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/loans/mortgages/POST (from https://www.afbank.com/personal/loans/mortgages/compare-mortgages)
+07:18:18	Warning: 	Moved Permanently for https://www.afbank.com/personal/education/homeownership/refinancing/
+07:18:18	Warning: 	File has moved from https://www.afbank.com/personal/education/homeownership/refinancing/ to https://www.afbank.com/personal/education/homeownership/refinancing
+07:18:18	Warning: 	Moved Permanently for https://www.afbank.com/help-center/loans-mortgages/mortgages/
+07:18:18	Warning: 	File has moved from https://www.afbank.com/help-center/loans-mortgages/mortgages/ to https://www.afbank.com/help-center/loans-mortgages/mortgages
+07:18:29	Error: 	"Not Found" (404) at link https://www.afbank.com/help-center/digital-banking/POST (from https://www.afbank.com/help-center/digital-banking/getting-started)
+07:18:29	Warning: 	Moved Permanently for https://www.afbank.com/help-center/
+07:18:29	Warning: 	File has moved from https://www.afbank.com/help-center/ to https://www.afbank.com/help-center
+07:18:29	Error: 	"Not Found" (404) at link https://www.afbank.com/business/POST (from https://www.afbank.com/business/accounts)
+07:18:52	Error: 	"Not Found" (404) at link https://www.afbank.com/business/accounts/community-banking/POST (from https://www.afbank.com/business/accounts/community-banking/home-owners-associations)
+07:18:53	Error: 	"Not Found" (404) at link https://www.afbank.com/forms/POST (from https://www.afbank.com/forms/consumer-loan-application)
+07:18:53	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/al/POST (from https://www.afbank.com/locations/al/fort-rucker)
+07:18:57	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/ga/POST (from https://www.afbank.com/locations/ga/moody-afb)
+07:18:59	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/il/POST (from https://www.afbank.com/locations/il/great-lakes)
+07:19:02	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/ky/POST (from https://www.afbank.com/locations/ky/fort-knox)
+07:19:04	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/mo/POST (from https://www.afbank.com/locations/mo/fort-leonard-wood)
+07:19:09	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/nv/POST (from https://www.afbank.com/locations/nv/nellis-afb)
+07:19:12	Warning: 	Retry after error -4 (Connect Error) at link https://www.afbank.com/locations/ny/fort-drum (from https://www.afbank.com/locations/)
+07:19:18	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/tx/POST (from https://www.afbank.com/locations/tx/fort-bliss)
+07:19:43	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/wy/cheyenne/POST (from https://www.afbank.com/locations/wy/cheyenne/200-shriever-rd)
+07:19:45	Error: 	"Not Found" (404) at link https://www.afbank.com/help-center/access-rewards-checking-account/POST (from https://www.afbank.com/help-center/access-rewards-checking-account/getting-started)
+07:19:45	Error: 	"Not Found" (404) at link https://www.afbank.com/help-center/checking-savings-accounts/POST (from https://www.afbank.com/help-center/checking-savings-accounts/cash2debit)
+07:19:45	Warning: 	Moved Permanently for https://www.afbank.com/personal/education/managing-accounts/overdraft-alternatives/
+07:19:45	Warning: 	File has moved from https://www.afbank.com/personal/education/managing-accounts/overdraft-alternatives/ to https://www.afbank.com/personal/education/managing-accounts/overdraft-alternatives
+07:19:45	Error: 	"Not Found" (404) at link https://www.afbank.com/help-center/credit-cards/POST (from https://www.afbank.com/help-center/credit-cards/credit-builder-secured-visa-credit-card)
+07:19:45	Error: 	"Not Found" (404) at link https://www.afbank.com/help-center/deaf-or-hard-hearing-clients/POST (from https://www.afbank.com/help-center/deaf-or-hard-hearing-clients/telecommunications-relay-service-trs)
+07:19:45	Error: 	"Not Found" (404) at link https://www.afbank.com/help-center/digital-banking-mobile-banking/POST (from https://www.afbank.com/help-center/digital-banking-mobile-banking/text-banking)
+07:19:45	Error: 	"Not Found" (404) at link https://www.afbank.com/help-center/loans-mortgages/POST (from https://www.afbank.com/help-center/loans-mortgages/mortgages)
+07:19:45	Error: 	"Not Found" (404) at link https://www.afbank.com/help-center/mobile-banking/POST (from https://www.afbank.com/help-center/mobile-banking/mobile-deposit)
+07:19:45	Error: 	"Not Found" (404) at link https://www.afbank.com/help-center/security/POST (from https://www.afbank.com/help-center/security/mobile-banking-security)
+07:19:45	Error: 	"Not Found" (404) at link https://www.afbank.com/help-center/zelle®/POST (from https://www.afbank.com/help-center/zelle®/general-questions)
+07:19:45	Error: 	"Not Found" (404) at link https://www.afbank.com/podcast/POST (from https://www.afbank.com/podcast/militarily-speaking-ep-20-military-family-advisory-network)
+07:19:45	Error: 	"Not Found" (404) at link https://www.afbank.com/media/category/POST (from https://www.afbank.com/media/category/podcasts)
+07:20:01	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/education/managing-accounts/POST (from https://www.afbank.com/personal/education/managing-accounts/managing-funds)
+07:20:01	Warning: 	Moved Permanently for https://www.afbank.com/privacy-policy/
+07:20:01	Warning: 	File has moved from https://www.afbank.com/privacy-policy/ to https://www.afbank.com/privacy-policy
+07:20:01	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/education/banking-safely-securely/POST (from https://www.afbank.com/personal/education/banking-safely-securely/preventing-id-theft)
+07:20:01	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/education/homeownership/POST (from https://www.afbank.com/personal/education/homeownership/buying-home)
+07:20:03	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/blog/POST (from https://www.afbank.com/personal/blog/save-retirement-armed-forces-bank-certificate-deposit-ira)
+07:20:03	Error: 	"Not Found" (404) at link https://www.afbank.com/blog/personal/POST (from https://www.afbank.com/blog/personal/savings-%26-budgeting)
+07:20:04	Error: 	"Not Found" (404) at link https://www.afbank.com/blog/tags/POST (from https://www.afbank.com/blog/tags/cd)
+07:20:13	Error: 	"Not Found" (404) at link https://www.afbank.com/blog/military/POST (from https://www.afbank.com/blog/military/military-family)
+07:20:13	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/accounts/zelle®/POST (from https://www.afbank.com/personal/accounts/zelle®/send-money-zelle®)
+07:20:13	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/loans/personal-loans/POST (from https://www.afbank.com/personal/loans/personal-loans/express-loan)
+07:20:14	Error: 	"Not Found" (404) at link https://www.afbank.com/mortgage-loan-officer/POST (from https://www.afbank.com/mortgage-loan-officer/paul-abair)
+07:20:14	Error: 	"Not Found" (404) at link https://www.afbank.com/mortgage-loan-officer/ (from https://www.afbank.com/mortgage-loan-officer/bernie-kalmus)
+07:20:14	Error: 	"Not Found" (404) at link https://www.afbank.com/modal/POST (from https://www.afbank.com/modal/mortgage-service-guarantee)
+07:20:14	Error: 	"Not Found" (404) at link https://www.afbank.com/blog/personal/savings-%2526-budgeting/POST (from https://www.afbank.com/blog/personal/savings-%2526-budgeting/prepare-financial-emergencies-armed-forces-bank-savings-account)
+07:20:18	Error: 	"Not Found" (404) at link https://www.afbank.com/blog/personal/home-%2526-mortgage/POST (from https://www.afbank.com/blog/personal/home-%2526-mortgage/how-prepare-your-pcs-move-and-how-va-loan-can-help)
+07:20:19	Warning: 	Moved Permanently for https://www.afbank.com/business/borrowing/
+07:20:19	Warning: 	File has moved from https://www.afbank.com/business/borrowing/ to https://www.afbank.com/business/borrowing
+07:20:19	Warning: 	Moved Permanently for https://www.afbank.com/business/accounts/
+07:20:19	Warning: 	File has moved from https://www.afbank.com/business/accounts/ to https://www.afbank.com/business/accounts
+07:20:19	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/al/fort-rucker/POST (from https://www.afbank.com/locations/al/fort-rucker/6600-andrews-ave-142atm)
+07:20:19	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/ga/moody-afb/POST (from https://www.afbank.com/locations/ga/moody-afb/4343-george-st-bldg-904)
+07:20:19	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/il/great-lakes/POST (from https://www.afbank.com/locations/il/great-lakes/2819-spaulding-st)
+07:20:19	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/ky/fort-knox/POST (from https://www.afbank.com/locations/ky/fort-knox/127-gold-vault-rd)
+07:20:19	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/mo/fort-leonard-wood/POST (from https://www.afbank.com/locations/mo/fort-leonard-wood/1026-artillery-circle-rd)
+07:20:19	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/nv/nellis-afb/POST (from https://www.afbank.com/locations/nv/nellis-afb/4200-mountain-home)
+07:20:19	Error: 	"Connect Error" (-4) after 2 retries at link https://www.afbank.com/locations/ny/fort-drum (from https://www.afbank.com/locations/)
+07:20:19	Error: 	Unable to save file C:/Users/USER/Desktop/download/Test/www.afbank.com/locations/ny/fort-drum: Permission denied
+07:20:19	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/tx/fort-bliss/POST (from https://www.afbank.com/locations/tx/fort-bliss/11284-luke-st)
+07:20:19	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/wy/POST (from https://www.afbank.com/locations/wy/cheyenne)
+07:20:19	Error: 	"Not Found" (404) at link https://www.afbank.com/help-center/zelle%C2%AE/POST (from https://www.afbank.com/help-center/zelle%C2%AE/general-questions)
+07:20:20	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/ks/fort-leavenworth/POST (from https://www.afbank.com/locations/ks/fort-leavenworth/320-kansas-ave)
+07:20:22	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/co/fort-carson/POST (from https://www.afbank.com/locations/co/fort-carson/6384-wetzel-ave)
+07:20:25	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/va/fort-myer/POST (from https://www.afbank.com/locations/va/fort-myer/108-mcnair-rd)
+07:20:26	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/ca/fort-irwin/POST (from https://www.afbank.com/locations/ca/fort-irwin/building-37-inner-loop-road)
+07:20:29	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/az/fort-huachuca/POST (from https://www.afbank.com/locations/az/fort-huachuca/arizona-st)
+07:20:31	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/wa/joint-base-lewis-mcchord/POST (from https://www.afbank.com/locations/wa/joint-base-lewis-mcchord/n-12th-st)
+07:20:33	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/az/luke-afb/POST (from https://www.afbank.com/locations/az/luke-afb/13877-w-thunderbird)
+07:20:35	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/ca/travis-afb/POST (from https://www.afbank.com/locations/ca/travis-afb/350-hickam-ave)
+07:20:36	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/ny/fort-drum/POST (from https://www.afbank.com/locations/ny/fort-drum/10730a-enduring-freedom-blvd)
+07:20:37	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/ks/fort-riley/POST (from https://www.afbank.com/locations/ks/fort-riley/5303-morelock-st)
+07:20:43	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/education/va-loan-guide/POST (from https://www.afbank.com/personal/education/va-loan-guide/va-loan-refinance-options)
+07:20:54	Error: 	"Not Found" (404) at link https://www.afbank.com/personal/accounts/zelle%C2%AE/POST (from https://www.afbank.com/personal/accounts/zelle%C2%AE/send-money-zelle%C2%AE)
+07:20:56	Error: 	"Not Found" (404) at link https://www.afbank.com/message-your-appreciation/POST (from https://www.afbank.com/message-your-appreciation/a-million-thanks)
+07:21:02	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/ks/POST (from https://www.afbank.com/locations/ks/fort-leavenworth)
+07:21:02	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/co/POST (from https://www.afbank.com/locations/co/fort-carson)
+07:21:04	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/va/POST (from https://www.afbank.com/locations/va/fort-myer)
+07:21:04	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/ca/POST (from https://www.afbank.com/locations/ca/fort-irwin)
+07:21:06	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/az/POST (from https://www.afbank.com/locations/az/fort-huachuca)
+07:21:08	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/wa/POST (from https://www.afbank.com/locations/wa/joint-base-lewis-mcchord)
+07:21:08	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/wa/fort-lewis/POST (from https://www.afbank.com/locations/wa/fort-lewis/5275-north-14th-street)
+07:21:31	Error: 	"Not Found" (404) at link https://www.afbank.com/locations/ks/junction-city/POST (from https://www.afbank.com/locations/ks/junction-city/429-w-18th-st)
+07:21:36	Error: 	Exit requested by shell or user
+07:21:44	Error: 	Exit requested by shell or user
+07:21:44	Error: 	"" (-1) at link https://www.afbank.com/blog/tags/mobile-deposit (from https://www.afbank.com/blog/tags/digital-banking)
+07:21:44	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 39 seconds : 1266 links scanned, 1130 files written (152953948 bytes overall), no files updated [0 bytes received at 0 bytes/sec]
+(87 errors, 41 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
